@@ -1,6 +1,6 @@
 /**
  * 文件上传
- * @authors pingyf
+ * @authors Ping YF (koakumaping@163.com)
  * @date    2015-10-30 10:31:38
  * @version $Id$
  */
